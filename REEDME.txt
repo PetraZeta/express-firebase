@@ -1,0 +1,3 @@
+
+API Rest con express que hace las llamadas a la bd de firebase para un CRUD de libros
+## Ejecutar con node src/index.js
